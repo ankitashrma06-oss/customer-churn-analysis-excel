@@ -34,3 +34,14 @@ The dashboard provides visual insights through:
 ## Project Files
 - Customer_Churn_Analysis.xlsx → Excel file containing dataset, analysis, and dashboard
 - Overview.png → Screenshot of the final dashboard
+
+## Project Workflow
+1. **Data Cleaning**
+   - Cleaned and prepared the dataset in Excel.
+   - Converted churn labels into numerical values for analysis.
+2. **Data Preparation**
+   - Created calculated fields such as churn rate and grouped customer segments.
+3. **Data Analysis**
+   - Used Pivot Tables to analyze churn patterns by age group, contract type, data usage, and state.
+4. **Dashboard Creation**
+   - Designed an Excel dashboard to visualize key churn metrics and trends.
